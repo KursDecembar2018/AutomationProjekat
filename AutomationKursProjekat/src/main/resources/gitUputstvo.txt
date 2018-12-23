@@ -1,0 +1,2 @@
+##Git uputstvo
+U ovom fajlu cemo da napisemo sve sto nam je potrebno da bi radili sa gitom
