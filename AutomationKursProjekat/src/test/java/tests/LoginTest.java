@@ -14,6 +14,7 @@ public class LoginTest extends Browser{
 	
 	String email = "testniEmail@gmail.com";
 	String password = "123456";
+	String promena = "Nova linija ubacena";
 	
 	@BeforeClass
 	public void beforeClass() {
