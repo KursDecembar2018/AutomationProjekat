@@ -9,13 +9,14 @@ import pageObjects.LoginPage;
 
 public class LoginTest extends Browser{
 
-	HomePage homePage;
+	private HomePage homePage;
 	LoginPage loginPage;
 	
 	String email = "testniEmail@gmail.com";
 	String password = "123456";
 	String promena = "Nova linija ubacena";
-	int brojGrana = 1;
+	int brojGrana = 5;
+	//dlkjsadlkjadlkasdlsadsakjl
 	
 	@BeforeClass
 	public void beforeClass() {
